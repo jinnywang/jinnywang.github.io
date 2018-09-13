@@ -429,9 +429,8 @@
 	.column1,
 	.column2,
 	.column3,
-	.column4
 	{
-		width: 282px;
+		width: 382px;
 	}
 	
 	.column1,
@@ -446,10 +445,6 @@
 		float: left;
 	}
 	
-	.column4
-	{
-		float: right;
-	}
 
 /*********************************************************************************/
 /* Portfolio                                                                     */
@@ -512,7 +507,7 @@
 	.column3,
 	.column4
 	{
-		width: 282px;
+		width: 382px;
 	}
 	
 	.column1,
@@ -532,11 +527,150 @@
 		float: right;
 	}
 
+
 	/*********************************************************************************/
 /* 手绘                                                                   */
 /*********************************************************************************/
 
 	#shouhui
+	{
+		overflow: hidden;
+		padding: 1em 0em;
+		background: #FFF;
+	}
+	
+	#featured h2
+	{
+		text-align: center;
+	}
+
+	#featured .icon
+	{
+		position: relative;
+		display: block;
+		margin: 0px auto 20px auto;
+		line-height:  normal;
+		font-size: 6em;
+		text-align: center;
+		color: #3f3f3f;
+	}
+
+
+	/*********************************************************************************/
+/* brand                                                                   */
+/*********************************************************************************/
+
+	#brand
+	{
+		overflow: hidden;
+		padding: 1em 0em;
+		background: #FFF;
+	}
+	
+	#featured h2
+	{
+		text-align: center;
+	}
+
+	#featured .icon
+	{
+		position: relative;
+		display: block;
+		margin: 0px auto 20px auto;
+		line-height:  normal;
+		font-size: 6em;
+		text-align: center;
+		color: #3f3f3f;
+	}
+
+		/*********************************************************************************/
+/* c4d                                                                   */
+/*********************************************************************************/
+
+	#c4d
+	{
+		overflow: hidden;
+		padding: 1em 0em;
+		background: #FFF;
+	}
+	
+	#featured h2
+	{
+		text-align: center;
+	}
+
+	#featured .icon
+	{
+		position: relative;
+		display: block;
+		margin: 0px auto 20px auto;
+		line-height:  normal;
+		font-size: 6em;
+		text-align: center;
+		color: #3f3f3f;
+	}
+
+
+		/*********************************************************************************/
+/* mingpai                                                                   */
+/*********************************************************************************/
+
+	#mingpai
+	{
+		overflow: hidden;
+		padding: 1em 0em;
+		background: #FFF;
+	}
+	
+	#featured h2
+	{
+		text-align: center;
+	}
+
+	#featured .icon
+	{
+		position: relative;
+		display: block;
+		margin: 0px auto 20px auto;
+		line-height:  normal;
+		font-size: 6em;
+		text-align: center;
+		color: #3f3f3f;
+	}
+
+			/*********************************************************************************/
+/* cuxiao                                                                   */
+/*********************************************************************************/
+
+	#cuxiao
+	{
+		overflow: hidden;
+		padding: 1em 0em;
+		background: #FFF;
+	}
+	
+	#featured h2
+	{
+		text-align: center;
+	}
+
+	#featured .icon
+	{
+		position: relative;
+		display: block;
+		margin: 0px auto 20px auto;
+		line-height:  normal;
+		font-size: 6em;
+		text-align: center;
+		color: #3f3f3f;
+	}
+
+
+				/*********************************************************************************/
+/* huwai                                                                   */
+/*********************************************************************************/
+
+	#huwai
 	{
 		overflow: hidden;
 		padding: 1em 0em;
